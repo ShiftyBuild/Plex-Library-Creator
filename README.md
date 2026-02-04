@@ -1,4 +1,4 @@
-# PlexUpdate.sh
+# PlexUpdate.sh - Creates libraries in Plex to match folders in your directory structure. 
 
 Installation
 ---
